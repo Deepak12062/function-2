@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(223, 238, 247);
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+h1{
+    background-color: rgb(72, 130, 212);
+    color: rgb(13, 13, 13);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h4{
+    background-color: rgb(131, 188, 245);
+    color: rgb(7, 7, 7);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.s{
+    background-color: bisque;
+}
+
+.q{
+    background-color: rgb(131, 188, 240);
+
+}
+a:hover{
+  color: blue;
+    text-decoration: none;
+
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.f{
+    color: blue;
+}
+.o{
+    background-color: rgb(131, 188, 245);
+}
